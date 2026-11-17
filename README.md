@@ -30,8 +30,8 @@
 <td>
 
 - 💻 Systems Engineer passionate about technology and video games
-- 🚀 I share coding tips and projects
-- ✨ Founder of **Word Devs**, a Discord community for devs and gamers
+- ✨ Founder of **[Word Devs](https://discord.gg/smp7hwrXr4)**, a Discord community for devs and gamers
+- 🚀 I build tools for developers and share coding tips along the way
 - 🌙 Always learning, always building
 - 💬 Come say **"Hello, World"** on our Discord 👇
 
@@ -40,6 +40,16 @@
 </td>
 </tr>
 </table>
+
+---
+
+## 🚀 Projects
+
+| Project | Description |
+|---|---|
+| [**kira-arts**](https://github.com/worddevs/kira-arts) | npm library to generate Discord cards with canvas |
+| [**Word Devs Status**](https://status.worddevs.dev) | Static status page for the Word Devs services |
+| [**Word Devs**](https://discord.gg/smp7hwrXr4) | Our community of developers and gamers |
 
 ---
 
@@ -57,20 +67,11 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=chococao29&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chococao29&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top languages"/>
+<img src="./metrics.svg" alt="GitHub metrics" width="100%"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=chococao29&hide_border=true&background=0d1117&ring=a78bfa&fire=22d3ee&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Streak stats"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chococao29&bg_color=0d1117&color=a78bfa&line=22d3ee&point=ffffff&area=true&hide_border=true" alt="Activity graph"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=chococao29&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
 
 </div>
 
