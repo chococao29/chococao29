@@ -11,9 +11,6 @@
 <a href="https://discord.gg/smp7hwrXr4"><img src="https://img.shields.io/badge/Discord-Word_Devs-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="https://x.com/chococao29"><img src="https://img.shields.io/badge/X-@chococao29-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://www.instagram.com/chococao.29/"><img src="https://img.shields.io/badge/Instagram-chococao.29-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=chococao29&label=Profile+views&color=8b5cf6&style=for-the-badge" alt="Profile views"/>
 
 </div>
@@ -31,6 +28,7 @@
 
 - 💻 Systems Engineer passionate about technology and video games
 - ✨ Founder of **[Word Devs](https://discord.gg/smp7hwrXr4)**, a Discord community for devs and gamers
+- 🔭 Currently working on **kira-arts** and the Word Devs ecosystem
 - 🚀 I build tools for developers and share coding tips along the way
 - 🌙 Always learning, always building
 - 💬 Come say **"Hello, World"** on our Discord 👇
@@ -45,11 +43,16 @@
 
 ## 🚀 Projects
 
-| Project | Description |
-|---|---|
-| [**kira-arts**](https://github.com/worddevs/kira-arts) | npm library to generate Discord cards with canvas |
-| [**Word Devs Status**](https://status.worddevs.dev) | Static status page for the Word Devs services |
-| [**Word Devs**](https://discord.gg/smp7hwrXr4) | Our community of developers and gamers |
+<div align="center">
+
+| Project | Description | Info |
+|---|---|---|
+| [**kira-arts**](https://github.com/worddevs/kira-arts) | npm library to generate Discord cards with canvas | ![npm](https://img.shields.io/npm/v/kira-arts?style=flat-square&color=8b5cf6) ![stars](https://img.shields.io/github/stars/worddevs/kira-arts?style=flat-square&color=8b5cf6) |
+| [**Word Devs Status**](https://status.worddevs.dev) | Static status page for the Word Devs services | Live |
+| [**Legal Center**](https://legal.worddevs.dev) | Legal documents for Word Devs services | Live |
+| [**Word Devs**](https://discord.gg/smp7hwrXr4) | Our community of developers and gamers | Discord |
+
+</div>
 
 ---
 
@@ -57,7 +60,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python,java,git,github,vscode,linux&theme=dark" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,vite,tailwind,python,cpp,powershell,git,github,vscode,linux&theme=dark" alt="Tech stack"/>
 
 </div>
 
@@ -82,8 +85,7 @@
 ### 🌌 Let's connect
 
 Open to collaborations, ideas and good vibes.
-
-<a href="https://discord.gg/smp7hwrXr4">Discord</a> · <a href="https://x.com/chococao29">X</a> · <a href="https://www.instagram.com/chococao.29/">Instagram</a>
+Join the community → **[discord.gg/smp7hwrXr4](https://discord.gg/smp7hwrXr4)**
 
 <sub>Made with 💜 and a lot of coffee</sub>
 
