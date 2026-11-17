@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/wtvnVSM.png" alt="Choco banner" width="100%"/>
 
-# Hi, I'm Choco 🐻🌙
+# Hi, I'm 𝒞𝒽𝑜𝒸𝑜 🐻🌙
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Systems+Engineer+%F0%9F%92%BB;Founder+of+Word+Devs+%E2%9C%A8;Coding+by+day%2C+gaming+by+night+%F0%9F%8E%AE" alt="Typing SVG" />
 
@@ -27,7 +27,7 @@
 <td>
 
 - 💻 Systems Engineer passionate about technology and video games
-- ✨ Founder of **[Word Devs](https://discord.gg/smp7hwrXr4)**, a Discord community for devs and gamers
+- ✨ Founder of **[𝐖𝐨𝐫𝐝 𝐃𝐞𝐯𝐬 ✨](https://discord.gg/smp7hwrXr4)**, a Discord community for devs and gamers
 - 🔭 Currently working on **kira-arts** and the Word Devs ecosystem
 - 🚀 I build tools for developers and share coding tips along the way
 - 🌙 Always learning, always building
@@ -41,6 +41,19 @@
 
 ---
 
+## 💬 Community
+
+<div align="center">
+
+**Word Devs** is a Discord community for developers and gamers: share projects, get help with code, and find people to play with.
+
+<a href="https://discord.gg/smp7hwrXr4"><img src="https://img.shields.io/discord/1307069737640923216?style=for-the-badge&logo=discord&logoColor=white&label=Online%20now&color=5865F2" alt="Members online"/></a>
+<a href="https://discord.gg/smp7hwrXr4"><img src="https://img.shields.io/badge/Join%20the%20server-8b5cf6?style=for-the-badge&logo=discord&logoColor=white" alt="Join the server"/></a>
+
+</div>
+
+---
+
 ## 🚀 Projects
 
 <div align="center">
@@ -48,9 +61,9 @@
 | Project | Description | Info |
 |---|---|---|
 | [**kira-arts**](https://github.com/worddevs/kira-arts) | npm library to generate Discord cards with canvas | ![npm](https://img.shields.io/npm/v/kira-arts?style=flat-square&color=8b5cf6) ![stars](https://img.shields.io/github/stars/worddevs/kira-arts?style=flat-square&color=8b5cf6) |
-| [**Word Devs Status**](https://status.worddevs.dev) | Static status page for the Word Devs services | ![status](https://img.shields.io/badge/status-live-22c55e?style=flat-square) |
-| [**Legal Center**](https://legal.worddevs.dev) | Legal documents for Word Devs services | ![status](https://img.shields.io/badge/status-live-22c55e?style=flat-square) |
-| [**Word Devs**](https://discord.gg/smp7hwrXr4) | Our community of developers and gamers | ![Discord](https://img.shields.io/discord/1307069737640923216?style=flat-square&logo=discord&logoColor=white&label=online&color=5865F2) |
+| [**Word Devs Status**](https://status.worddevs.dev) | Static status page for the Word Devs services | Live |
+| [**Legal Center**](https://legal.worddevs.dev) | Legal documents for Word Devs services | Live |
+| [**Word Devs**](https://discord.gg/smp7hwrXr4) | Our community of developers and gamers | Discord |
 
 </div>
 
@@ -80,23 +93,12 @@
 
 ---
 
-## 🌌 Let's connect
-
 <div align="center">
 
+### 🌌 Let's connect
+
 Open to collaborations, ideas and good vibes.
-
-<a href="https://discord.gg/smp7hwrXr4">
-  <img src="https://discord.com/api/guilds/1307069737640923216/widget.png?style=banner2" alt="Word Devs on Discord"/>
-</a>
-
-<br/>
-
-**[discord.gg/smp7hwrXr4](https://discord.gg/smp7hwrXr4)**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=6,11,20" alt="" width="100%"/>
+Join the community → **[𝐖𝐨𝐫𝐝 𝐃𝐞𝐯𝐬 ✨](https://discord.gg/smp7hwrXr4)**
 
 <sub>Made with 💜 and a lot of coffee</sub>
 
