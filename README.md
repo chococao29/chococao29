@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://discord.gg/smp7hwrXr4"><img src="https://img.shields.io/badge/Discord-Word_Devs-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://discord.gg/smp7hwrXr4"><img src="https://img.shields.io/discord/1307069737640923216?style=for-the-badge&logo=discord&logoColor=white&label=Word%20Devs&color=5865F2" alt="Word Devs on Discord"/></a>
 <a href="https://x.com/chococao29"><img src="https://img.shields.io/badge/X-@chococao29-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://www.instagram.com/chococao.29/"><img src="https://img.shields.io/badge/Instagram-chococao.29-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <img src="https://komarev.com/ghpvc/?username=chococao29&label=Profile+views&color=8b5cf6&style=for-the-badge" alt="Profile views"/>
@@ -48,9 +48,9 @@
 | Project | Description | Info |
 |---|---|---|
 | [**kira-arts**](https://github.com/worddevs/kira-arts) | npm library to generate Discord cards with canvas | ![npm](https://img.shields.io/npm/v/kira-arts?style=flat-square&color=8b5cf6) ![stars](https://img.shields.io/github/stars/worddevs/kira-arts?style=flat-square&color=8b5cf6) |
-| [**Word Devs Status**](https://status.worddevs.dev) | Static status page for the Word Devs services | Live |
-| [**Legal Center**](https://legal.worddevs.dev) | Legal documents for Word Devs services | Live |
-| [**Word Devs**](https://discord.gg/smp7hwrXr4) | Our community of developers and gamers | Discord |
+| [**Word Devs Status**](https://status.worddevs.dev) | Static status page for the Word Devs services | ![status](https://img.shields.io/badge/status-live-22c55e?style=flat-square) |
+| [**Legal Center**](https://legal.worddevs.dev) | Legal documents for Word Devs services | ![status](https://img.shields.io/badge/status-live-22c55e?style=flat-square) |
+| [**Word Devs**](https://discord.gg/smp7hwrXr4) | Our community of developers and gamers | ![Discord](https://img.shields.io/discord/1307069737640923216?style=flat-square&logo=discord&logoColor=white&label=online&color=5865F2) |
 
 </div>
 
@@ -80,12 +80,23 @@
 
 ---
 
+## 🌌 Let's connect
+
 <div align="center">
 
-### 🌌 Let's connect
-
 Open to collaborations, ideas and good vibes.
-Join the community → **[discord.gg/smp7hwrXr4](https://discord.gg/smp7hwrXr4)**
+
+<a href="https://discord.gg/smp7hwrXr4">
+  <img src="https://discord.com/api/guilds/1307069737640923216/widget.png?style=banner2" alt="Word Devs on Discord"/>
+</a>
+
+<br/>
+
+**[discord.gg/smp7hwrXr4](https://discord.gg/smp7hwrXr4)**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=6,11,20" alt="" width="100%"/>
 
 <sub>Made with 💜 and a lot of coffee</sub>
 
